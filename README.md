@@ -17,4 +17,4 @@ and the signup has phone number and ountry of phone number
 - user can randomly receipt mail in inbox, or sms in phone inbox, or vocal message in phone
 
 - social bookmarking gives you badge, you don't have t bookmark
-- cokies table : curren session, always stored , 
+- cokies table : curren session, always stored ,  cookie for ads
