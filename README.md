@@ -68,4 +68,5 @@ The available options are creative, balanced and precise.
 - :swimmer:
 - :woman:
 - :moneybag:
+- :football:
 
