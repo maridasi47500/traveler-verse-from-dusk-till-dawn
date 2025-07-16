@@ -20,4 +20,4 @@ and the signup has phone number and ountry of phone number
 - cookies table : current session, always stored ,  cookie for ads
 - billzt d'avion, museum cafe, information city, city map, camera, local art encounter, local tuorist attrction encounter
 
-- billet d'avion, traveler verse, job verse, cookie, 
+- billet d'avion, traveler verse, job verse, photos verse, data verse, digital verse
