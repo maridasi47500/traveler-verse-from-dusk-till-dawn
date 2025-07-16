@@ -182,5 +182,7 @@ erb
   </ul>
 </div>
 Tu veux que je t’aide à calculer ce fameux pourcentage de similarité ? Ou à simuler l’appel vers un moteur de recherche pour enrichir ton affichage ? On peut rendre ça très intuitif pour l’utilisateur ! 
+- mode bookmarks, 
+- mode i18n , 
 
 
