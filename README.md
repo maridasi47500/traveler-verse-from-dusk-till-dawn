@@ -61,3 +61,8 @@ The available options are creative, balanced and precise.
 
 
 - poster avec rails pour voir si il manque quelque chose pour poster
+- depenses
+- soccuper de s soins : :toothbrush: :mirror:
+- :house:
+- :airplane:
+- 
